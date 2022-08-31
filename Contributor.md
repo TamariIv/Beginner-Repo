@@ -76,7 +76,5 @@ Format
 
 ## [Shishir Kumar](https://github.com/CoffeeQuotes)
 
-## [Tam Iv](https://github.com/TamariIv)
-
 ## [Bryceson Laing](https://github.com/bklaing2/)
 
